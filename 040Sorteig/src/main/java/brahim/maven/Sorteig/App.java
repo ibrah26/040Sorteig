@@ -24,7 +24,7 @@ public class App{
     	
     }
     
-    /*asdijfñailsdfñlksa*/
+  
     public static boolean MirarSiExisteixFitxer(){
     	
     	boolean existeixFitxer = true;
